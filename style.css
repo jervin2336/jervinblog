@@ -511,6 +511,9 @@ header .follow a:hover{
     padding:.5rem 0;
     padding-top: 1rem;
 }
+p{
+    text-indent: 50px;
+}
 
 .contact .icons-container .icons p{
     color:#666;
