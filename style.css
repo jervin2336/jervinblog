@@ -13,25 +13,24 @@
     text-transform: none;
     transition: all .2s linear;
     line-height: 1.5;
-    text-align: justify;
-    
+
 }
+
 
 html{
     font-size: 62.5%;
     overflow-x: hidden;
     scroll-behavior: smooth;
 }
-p{
-    text-align: justify;
-    text-justify: inter-word;
-}
 
 body{
     background: #e8f8fc;
     padding-left: 30rem;
 }
-
+p{
+    text-align: justify;
+    text-justify: inter-word;
+}
 section{
     padding:1rem 5%;
     min-height: 100vh;
@@ -516,9 +515,6 @@ header .follow a:hover{
     font-size: 2rem;
     padding:.5rem 0;
     padding-top: 1rem;
-}
-p{
-    text-indent: 50px;
 }
 
 .contact .icons-container .icons p{
