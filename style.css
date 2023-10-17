@@ -30,6 +30,7 @@ body{
 p{
     text-align: justify;
     text-justify: inter-word;
+    font-family: 'Trebuchet MS', sans-serif;
 }
 section{
     padding:1rem 5%;
@@ -489,9 +490,7 @@ header .follow a:hover{
     flex-wrap: wrap;
     padding-bottom: 2rem;
 }
-.p{
-    font-family: 'Trebuchet MS', sans-serif;
-    font-weight: bold;
+
 }
 .contact .icons-container .icons{
     flex:1 1 25rem;
