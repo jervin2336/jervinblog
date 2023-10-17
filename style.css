@@ -260,7 +260,6 @@ header .follow a:hover{
     gap:1.5rem;
     align-items: center;
 }
-.p
 .about .row-2 .skills{
     flex:1 1 40rem;
 }
@@ -492,6 +491,7 @@ header .follow a:hover{
 }
 .p{
     font-family: 'Trebuchet MS', sans-serif;
+    font-weight: bold;
 }
 .contact .icons-container .icons{
     flex:1 1 25rem;
